@@ -1,6 +1,6 @@
 # Cool Blue Theme
 
-A blue theme made with the help of Visual Studio Code Theme Generator.
+A simple blue theme with accents of yellow and orange.
 
 ## Screenshot
 
