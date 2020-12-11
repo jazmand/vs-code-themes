@@ -1,0 +1,31 @@
+{
+    "name": "cool-blue-theme",
+    "displayName": "Cool Blue Theme",
+    "description": "A simple blue theme with accents of yellow and orange.",
+    "publisher": "Jazmand",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.52.0"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/jazmand/vs-code-themes"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "icon": "cool-blue-theme-icon.PNG",
+    "keywords": [
+        "blue",
+        "cool"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Cool Blue Theme",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Cool Blue Theme-color-theme.json"
+            }
+        ]
+    }
+}
